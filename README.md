@@ -3,3 +3,4 @@ A Not So Good Google
 - Not responsive
 
 This is part of CS50 course - Project 0 but I did not submit it.
+Star if you want 😅
